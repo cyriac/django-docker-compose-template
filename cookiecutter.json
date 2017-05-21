@@ -1,4 +1,5 @@
 {
   "project_name": "Django docker-compose bootstrap template",
-  "project_slug": "{{ cookiecutter.project_name.lower().replace('+', '_').replace(' ', '_').replace('-', '_') }}"
+  "project_slug": "{{ cookiecutter.project_name.lower().replace('+', '_').replace(' ', '_').replace('-', '_') }}",
+  "project_description": ""
 }
